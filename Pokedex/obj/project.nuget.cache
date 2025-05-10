@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDcYQ8B8K4g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZEPHYRUS\\Tareas\\Programacion I\\Pokedex\\Pokedex\\Pokedex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZEPHYRUS\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
